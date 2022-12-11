@@ -1,0 +1,9 @@
+main{
+integer x,y,max;
+if (x > y){
+max := x;
+}
+else {
+max := y;
+}
+}

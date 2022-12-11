@@ -1,0 +1,7 @@
+main{
+integer i;
+integer n;
+n :=10;
+while(i < n){
+i := i + 1;
+}

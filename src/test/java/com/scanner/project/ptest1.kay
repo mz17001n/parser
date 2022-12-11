@@ -1,0 +1,4 @@
+void main{
+integer i;
+i := 7;
+}
